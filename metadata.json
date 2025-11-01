@@ -1,0 +1,5 @@
+{
+  "name": "Scalify Labs Next.js ",
+  "description": "A React single-page application demonstrating the architectural concepts of a modern Next.js website, including simulated Static Site Generation (SSG) and Server-Side Rendering (SSR) pages, styled with Tailwind CSS and powered by a mock headless CMS.",
+  "requestFramePermissions": []
+}
